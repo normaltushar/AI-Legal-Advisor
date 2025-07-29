@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Legal Advisor - Streamlit App
+# AI Legal Advisor - Streamlit App
 
 A legal assistant app built using [Streamlit](https://streamlit.io), [ChromaDB](https://docs.trychroma.com/), and [LangChain](https://www.langchain.com/) to provide AI-powered legal case analysis based on Indian law.
 
