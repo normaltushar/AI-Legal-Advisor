@@ -15,3 +15,5 @@ A legal assistant app built using [Streamlit](https://streamlit.io), [ChromaDB](
 ---
 
 ## 🚀 Getting Started
+
+#Add your Groq API and Use
